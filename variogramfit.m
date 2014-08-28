@@ -141,11 +141,11 @@ function [a,c,n,S] = variogramfit(h,gammaexp,a0,c0,numobs,varargin)
 % References: Wackernagel, H. (1995): Multivariate Geostatistics, Springer.
 %             Webster, R., Oliver, M. (2001): Geostatistics for
 %             Environmental Scientists. Wiley & Sons.
-%             Minsasny, B., McBratney, A. B. (2005): The Matérn function as
+%             Minsasny, B., McBratney, A. B. (2005): The MatÃ©rn function as
 %             general model for soil variograms. Geoderma, 3-4, 192-207.
 % 
 % Date: 7. October, 2010
-% Author: Wolfgang Schwanghart (w.schwanghart[at]unibas.ch)
+% Author: Wolfgang Schwanghart (w.schwanghart[at]geo.uni-potsdam.de)
 
 
 
